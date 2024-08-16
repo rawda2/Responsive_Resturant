@@ -1,0 +1,86 @@
+
+@media screen and (min-width:993px) and (max-width:1200px) { 
+    .head .caption{
+        padding: 20px;
+    }
+        
+    .whyUs .left{
+        width: 45%;
+    }
+    .whyUs .right{
+        width: 45%;
+    }
+    .section{
+        padding: 3% 0;
+    }
+    .section  .feature{
+       width: 23%;
+       height: auto;
+    }
+    
+    .section  .feature h3{
+        font-size: 20px;
+        padding: 1%;
+    }
+    .containers{
+        padding: 2% 0;
+    }
+    .container .client{
+    
+        padding:1%;
+    }
+    .container .client h2{
+        font-size: 40px;
+    }
+    
+    
+    .section .gallery{
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    .gallery .ttb,.gallery .btt{
+        width: 100%;
+    }
+    .gallery .big{
+        width: 30%;
+        height: 400px;
+    }
+    .gallery .small{
+        width: 30%;
+        height: 400px;
+
+    }
+    .main_menu{
+        
+        height: auto;
+    }
+   
+    .main_menu .parts .left ,.main_menu .parts .right{
+        width: 40%;
+
+    }
+    .main_menu .parts .right{
+        position: relative;
+        right: -50px;
+    }
+    .part .right{
+        padding: 3%;
+        margin-left: 1%;
+    }
+    .container .member{
+        width: 40%;
+        margin: 2%;
+    }
+    h1{
+        width: 20%;
+    }
+    footer .menu{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    footer .menu p{
+        width: 80%;
+    }
+   
+
+}

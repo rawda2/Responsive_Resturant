@@ -1,0 +1,196 @@
+@media screen and (min-width:200px) and (max-width:768px) {
+
+    .hidden-menu {
+        text-align: left;
+    }
+    
+
+    .hidden-menu i {
+        right: 40px;
+    }
+
+    .head {
+        padding: 30% 1%;
+    }
+   
+    
+
+    .head h1 {
+        font-size: 4rem;
+        width: 80%;
+
+    }
+
+    .head .caption p {
+        width: 100%;
+    }
+
+    .head .caption {
+        padding: 20% 0;
+    }
+
+    .whyUs {
+        padding: 0;
+    }
+
+    .whyUs .left {
+        width: 100%;
+    }
+
+    .whyUs .right {
+        width: 100%;
+    }
+
+    .whyUs .right img {
+        width: 100%;
+    }
+    .section {
+        padding: 2% 0;
+    }
+
+    .section .feature {
+        width: 100%;
+    }
+
+    .container .client {
+        width: 100%;
+    }
+    .gallery{
+        padding-bottom: 5%;
+    }
+    
+    .gallery .ttb,
+    .gallery .btt {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+       
+    }
+
+    .gallery .big {
+        width: 90%;
+        height: 400px;
+    }
+
+    .gallery .small {
+        width: 40%;
+        height: 200px;
+    }
+    .map{
+        padding: 1%;
+    }
+    .map .map_caption {
+       margin: 0 1px;
+       left: 4%;
+      top: -100px;
+        width: 70%;
+    }
+
+    .map iframe {
+        height: 500px;
+    }
+
+    .form form {
+        width: 80%;
+    }
+
+    .form form input,
+    form button {
+        width: 80%;
+        font-size: 15px;
+
+    }
+
+    .form form button {
+        width: 60%;
+    }
+
+    .h2 {
+        font-size: 30px;
+    }
+
+    footer .menu {
+       
+        padding: 0px;
+        
+    }
+    .menu ul{
+        margin: 0 auto;
+        padding-left: 35%;
+    }
+    
+    .menu ul li{
+        padding: 10% 0;
+        width: 50%;
+    }
+
+    footer .menu p {
+        width: 80%;
+    }
+
+    .main_menu {
+        height: auto;
+    }
+
+    .main_menu .parts .left,
+    .main_menu .parts .right {
+        width: 90%;
+
+    }
+
+    .main_menu .parts .right {
+        position: relative;
+
+    }
+
+    .menu_head h2 {
+        font-size: 70px;
+    }
+
+    h1 {
+        width: 60%;
+
+    }
+
+    .menu_head {
+        clip-path: none;
+    }
+
+    .random p {
+        width: 100%;
+    }
+
+    .about_main .part .left {
+        width: 80%;
+    }
+
+    .part .right {
+        width: 100%;
+        padding: 10% 0;
+    }
+
+    .container .member {
+        width: 80%;
+        margin: 5% 0;
+    }
+
+    .contact_form {
+        padding: 2%;
+        height: 700px;
+
+    }
+
+    .contact_form form {
+        width: 90%;
+        position: relative;
+        top: 0;
+
+    }
+
+    .contact_form .caption {
+        width: 100%;
+        position: relative;
+        top: 0;
+        padding: 5%;
+    }
+}

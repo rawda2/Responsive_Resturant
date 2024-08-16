@@ -1,0 +1,88 @@
+@media screen and (min-width:779px) and (max-width:994px){
+    .hidden-menu{
+        text-align: left;
+    }
+    .head h1{
+        width: 100%;
+    }
+    .head .caption p{
+        width: 80%;
+    }
+    .whyUs .left{
+        width: 90%;
+    }
+    .whyUs .right{
+        width: 90%;
+    }
+    .whyUs .right img{
+        width: 95%;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .section  .feature{
+        width: 90%;
+    }
+    .section  .feature img{
+        width: 10%;
+    }
+    .container .client{
+        width: 100%;
+        padding: 10%;
+    }
+    .gallery .ttb,.gallery .btt{
+        width: 100%;
+    }
+    .main_menu{
+        height: auto;
+    }
+    .main_menu .parts .left ,.main_menu .parts .right{
+        width: 90%;
+        position: relative;
+
+    }
+    .main_menu .parts .right{
+        position: relative;
+        
+    }
+    h1{
+        width: 25%;
+    }
+    .caption .photo{
+        height: 200px;
+    }
+    .part .right{
+        width: 40%;
+    }
+    .about_main .part .left{
+        margin: 0 5%;
+    }
+    .container .member{
+        width: 40%;
+        margin: 5%;
+    }
+    .contact_form{
+        padding: 2%;
+        height: 700px;
+
+    }
+    .contact_form form {
+        width: 90%;
+        position: relative;
+        top: -200px;
+        
+    }
+    .contact_form .caption{
+        width: 100%;
+        position: relative;
+        top: -100px;
+        padding: 5%;
+    }
+    footer .menu{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    footer .menu p{
+        width: 80%;
+    }
+}
